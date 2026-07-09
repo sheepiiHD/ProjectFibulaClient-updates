@@ -1,0 +1,31 @@
+{
+    "schema":  1,
+    "product":  "Project Fibula Client",
+    "clients":  [
+                    {
+                        "version":  "7.1.1-7.9.2026.2194-installed",
+                        "clientIntegrityHash":  "7A0E086A78FEC719",
+                        "url":  "https://github.com/sheepiiHD/ProjectFibulaClient-updates/releases/download/7.1.1-7.9.2026.2194/ProjectFibulaClient-7.1.1-7.9.2026.2194-installed.exe",
+                        "sha256":  "6e3cbf70d183099b721d0bc006ef139ad4dd4f5026eb3d77b38d23852d80062d",
+                        "show_desc":  false,
+                        "changelog":  [
+                                          "Installed transition client."
+                                      ],
+                        "signature":  "QzB8cnbMS3jrUy39+mGEkzrFU2uybmA/5+oV/W2NrCY+YRyw0l1Ze9XkXYK0DLXpnef9GLrWR+e8NKtmPIjChBXOqA+1gzzSN9GgOUymxETZgFc5ctPpwNV9Kv+ppuzJDaJLgzdvCBjy//xnpY1LjT7OavfXhEjOXR6ZGH3wgPq2PxYvIaE2HnwBhq0GV1MkrN5OW5ZcVeQDmKndO+6z8SOPhdxGYLmOQR42aYDS8llrQpEll5zmVGxo7aJEKDU8KgsrJ9HiWWK+7A9HreYz7Ov1yyiA64VWWM/cQfC4pFsIeY0rM6FKoNMkIUbVy3O5qnJ5VezYTySWd5l3fzPL7A=="
+                    },
+                    {
+                        "version":  "7.1.1-7.9.2026.2194",
+                        "clientIntegrityHash":  "BE09B2E366B10F3E",
+                        "url":  "https://github.com/sheepiiHD/ProjectFibulaClient-updates/releases/download/7.1.1-7.9.2026.2194/ProjectFibulaClient-7.1.1-7.9.2026.2194.exe",
+                        "sha256":  "8b24697fc85033246e9c3199724329fcc98f35525bb789140fbbe06a96dbcd28",
+                        "show_desc":  true,
+                        "changelog":  [
+                                          "Automatic in-client updater.",
+                                          "Download progress bar.",
+                                          "Scrollable release notes.",
+                                          "Optional show_desc manifest display control."
+                                      ],
+                        "signature":  "hZCKp1lQM6lNuikVvgs4IPfBED6oBtQ3ljeS3MixWJ3CblAwas3qidNd90KWr4K/6BLevjdDGTQn31gkJFosM9EdjfGzUpkKXFOnD0+PpFxVySC998QitX7Q8XLLlcOuMUbHAbOnoA/U5g5eKNkCLfKs+NtIgz58pLrvrE6lC+84cYTH1/l+mYV9qbKI0fwUNRHnpUL/6LnJzqIS6wCKnbxVd3eLGQ4Sd1xAtJpF04iCjqjrXIwm2oxJmWT1okjW0j6EDn5uFFm544y723ciaEkzFdTmz3g883BesZqUdA9vMom5VVsysLSrFEuov/UEvcKEzVePW0NNquI9xb45vQ=="
+                    }
+                ]
+}
