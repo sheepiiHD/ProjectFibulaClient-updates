@@ -101,6 +101,19 @@
                                           "Removed internal item ID and stack-position diagnostics from item look descriptions."
                                       ],
                         "signature":  "WiNWcbNhm7jZtOYpYsp2q3dT1CFePYD/hyb8IrwIEF3nt5jf3F6yZNQ5SGxHz4eAKrQnquGcJInnabLWTr46V75G65c+IEjGz+hzlTQOhhjudmbABF8YX+L6BMxmwgIbAJtWgKTlxJjOpL0Z1YnTLQ9YEnKRnLO4Hx/ze/xEkCjThwdHUxtl3vOsVDYXTU7o6LtEu5xxJFztHS2Xgaj2Ax4H0N1YqGLyaEquAVPCS+VOoJeDZTTHa1VC7gJlCpQML8GWJUMybZBSB6y7ehTrO9KNtSO4m539ty6nO4NWYZrfYFiD15t3OLJ2eIw5QtlNetaqv6xIv/QFf3Qp1mIuSA=="
+                    },
+                    {
+                        "version":  "7.1.1-7.13.2026.7",
+                        "clientIntegrityHash":  "100DA050D3672225",
+                        "url":  "https://github.com/sheepiiHD/ProjectFibulaClient-updates/releases/download/7.1.1-7.13.2026.7/ProjectFibulaClient-7.1.1-7.13.2026.7.exe",
+                        "sha256":  "f084c09d531da1a63ceb52107975d44f4e764058e7d60d53605de09afec72ea4",
+                        "show_desc":  true,
+                        "changelog":  [
+                                          "Removed the built-in house bidding window and all associated client state.",
+                                          "Removed Bid House from door and item context menus.",
+                                          "House auctions are now available exclusively through the external website."
+                                      ],
+                        "signature":  "ZyFBIpyfKbRbzxwFYrbR3Ps1/o2ETwR/Z2e3r5yfjd+Z/EOq/qmC5ASQiKgcGvRMGWw4ZsP4IYOuJ8bLJ6RcHc704vqzmRHUJ9BqZ8BvFwmZPVv6FVLotTG83PxFZ6sLiFjeN9BtSHELLQMkBFdYdLvsyfxwmGj0Z9ZpZ1m/lXAeFyLOMIxy+0mHtVdzZXS/OFuExqgZo8Tn5QBYvcOLXdf7oAlVtAohKexcMB06vE/1cHFP+bZcAiNga3yO42piSy6fqMPPYQiMOTlx6md2tXnTZnu1gwqqpwwGTumEehNEt0XXJ67pEPZs7ZN+YTr+VUKhBHj6fEQ6uKSqEoxGwQ=="
                     }
                 ]
 }
