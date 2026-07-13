@@ -77,6 +77,19 @@
                                           "Release packages include the required Assets folder."
                                       ],
                         "signature":  "L+mhiZqK0Ds3+qj0mw/pXozhdC/YtPWeSZi5V3dXudN28kXKAqaI9jqo/itLzkL/B6L1kUrCJ5PVR4DsZ4xDQUSR8F7nLbqT14YrNxLVLMaCTcWQRLpf/DQbVaTTrEqETPLnzFJOx/EnaqD8SbN4XKdmVdou9nYUshvYko0aJ5b2FcA0KPfI/l4P1nY9rP/WmUmKXXgR23FU+vo0NWaMl3egfZ24zpAKQ2Osj4ICZMwm7SeLsz7MKZvBYXIjFADrE7DCkzPcSRCIoIQK6hgFr8NNU6JFWMqRHl15ay35DyHcLV7MB4YImoRCAf3GcZ5IEAmdtLz0sMvlMFn3EdBDkg=="
+                    },
+                    {
+                        "version":  "7.1.1-7.13.2026.5",
+                        "clientIntegrityHash":  "FA7B313E73273F89",
+                        "url":  "https://github.com/sheepiiHD/ProjectFibulaClient-updates/releases/download/7.1.1-7.13.2026.5/ProjectFibulaClient-7.1.1-7.13.2026.5.exe",
+                        "sha256":  "cac8f195342c7154ed25cc26526a5e41d1571a8d92cf9bab181597e7d889ded4",
+                        "show_desc":  true,
+                        "changelog":  [
+                                          "Moved update checks behind the login server; clients now receive signed update information only when rejected.",
+                                          "Removed the Skills window right-click configuration menu and Reset Experience Counter action.",
+                                          "Removed skill-bar visibility toggles, the Ctrl+Shift+Y shortcut, and obsolete saved settings."
+                                      ],
+                        "signature":  "TAkSel8Z6lJgYI/mmTU3TnrLi9cme1DGJ9PflShZE9ZKo4TAtIsFONCSIojcxbhc3c1DgdVgR2E5u0HXFzpz5j1rCPngro+df6TBOMV8s1QquowlQ0NLJZGkYFkEm9dyC7B9uaEoDQFFGDU9jTQHn8MK/KfQQz54B7XjjFB12cX+KBahHNfHifj9wWWuzFwyPsAMVGXxGyAO1iU3AEBOP4IO1XvkpHifHP74DvKHtTKF5S8aT4CyIUoypSfwohRQxAn6gILejIGzZ81+IM8Tczk2QgTIeMDlUQihhskfgVt+i6YhVMgPrUm/0I1fZq3+JHznjNNk+5vE8YsB8lciHg=="
                     }
                 ]
 }
