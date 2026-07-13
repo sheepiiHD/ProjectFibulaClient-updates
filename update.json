@@ -27,6 +27,18 @@
                                           "GitHub release redirects are followed during downloads."
                                       ],
                         "signature":  "k0/L7496+6d/iSUABXHd+ZixysXe1geEzTkoeop2h+8ETWnbH/75+lbj78hw4MGIMVc0s3SKBV4GooUEciZZY7ISu6YrM63CqZGsXHZqQ0f8NypLJ3GW7CWcOCcVZPtMmGNzsgvRHaVJ2RLtgQls0HCjARR9rqRwIiVVbu8jmbVYsQY8AsOXiMEpDpSKJRLunC83J6DKOjMGyZDwMN5PTZxUx0h52OnrxRAWMvsRTWrYC7tMBmmiikqgHfbEVmViJioVWMJSfZHV1J5FoJG+8+WZvHnfGZq9hWRtTPWyaZx38UijVExIYg+MTHnwHOPnb/H2F8nq2bkal8FnkHd2MQ=="
+                    },
+                    {
+                        "version":  "7.1.1-7.13.2026.1",
+                        "clientIntegrityHash":  "7987B61A564D7932",
+                        "url":  "https://github.com/sheepiiHD/ProjectFibulaClient-updates/releases/download/7.1.1-7.13.2026.1/ProjectFibulaClient-7.1.1-7.13.2026.1.exe",
+                        "sha256":  "0d4f50715d44e75b68baffa9eb6db0d74807fa975f4a7ca185ce146534017fad",
+                        "show_desc":  true,
+                        "changelog":  [
+                                          "Preserve exact character-name capitalization throughout the client.",
+                                          "Add privacy-conscious global crash reports and diagnostic minidumps."
+                                      ],
+                        "signature":  "mB68SO3TFTHMtlSPK52pBtPXZSSNTN+OtHjDLtwtvYZJTTA0WP3JWQ2UQEEXhBB2jIVeymraGxYa2ine2qWjw9WLDuLHkIUO32HNqOT49vEYDGViteqOoTzlq0jKJ4FATfTYjVYGSB4URSQizOYbeDfigeeK7w2jxW+YKw/+hElZz21rg6F3RzRqqPPaEECNKLMrElzRFJLgNx9iw4q2MPc26sA4wBGAk71i11L7zmDYNuZr26UG2siIDijra3J+Uc9Of8Px6kKiIt608jCzDfT65B5QJTgKfGRfHMDNonP7vLHrJ5O/PCXZVaH645lnZSL13zE+F0o8RtSiizJj7w=="
                     }
                 ]
 }
