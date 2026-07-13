@@ -39,6 +39,18 @@
                                           "Add privacy-conscious global crash reports and diagnostic minidumps."
                                       ],
                         "signature":  "mB68SO3TFTHMtlSPK52pBtPXZSSNTN+OtHjDLtwtvYZJTTA0WP3JWQ2UQEEXhBB2jIVeymraGxYa2ine2qWjw9WLDuLHkIUO32HNqOT49vEYDGViteqOoTzlq0jKJ4FATfTYjVYGSB4URSQizOYbeDfigeeK7w2jxW+YKw/+hElZz21rg6F3RzRqqPPaEECNKLMrElzRFJLgNx9iw4q2MPc26sA4wBGAk71i11L7zmDYNuZr26UG2siIDijra3J+Uc9Of8Px6kKiIt608jCzDfT65B5QJTgKfGRfHMDNonP7vLHrJ5O/PCXZVaH645lnZSL13zE+F0o8RtSiizJj7w=="
+                    },
+                    {
+                        "version":  "7.1.1-7.13.2026.2",
+                        "clientIntegrityHash":  "51F5260EE1089F05",
+                        "url":  "https://github.com/sheepiiHD/ProjectFibulaClient-updates/releases/download/7.1.1-7.13.2026.2/ProjectFibulaClient-7.1.1-7.13.2026.2.exe",
+                        "sha256":  "2e49296237f7c00378a3698450ee8e1ca317cbcb186d67529d3c50621919ce88",
+                        "show_desc":  true,
+                        "changelog":  [
+                                          "Fixed Show Text and Edit List prompt placement.",
+                                          "Removed newline-based layout padding and aligned prompt text beside the item icon."
+                                      ],
+                        "signature":  "wMerJN6JXS8FcqXEyzJZvsi7EDxIEnwzHD4oWoX/5vxB0Rpxk2xePBYR3zRF2sACP06sAJfH37UogDaJ0dAHjhFE53NcdrwVKHHb5me5+fYHYfbm6dS++LMMEeW8mScRg+okHtl8N+nls3eNkjju4UeC+YfmjHQXUmA1HjId1H5CkG5ctlKyTOlDKRLtzUOpPjHXic6TIQs09E+9yc/R+88ZyntkygR/LXTRZU8PQ4Fyvtot3+9hRe9OYPAkmpynG66CrvVYzeAInouSENy7VHD6WN6vSSBqOJ/+09ekQ1cfMrnEFhyHg57E6Vhx5UFvkwrEP/N4GZtpuw5EHBGJvg=="
                     }
                 ]
 }
