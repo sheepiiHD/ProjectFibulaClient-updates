@@ -51,6 +51,18 @@
                                           "Removed newline-based layout padding and aligned prompt text beside the item icon."
                                       ],
                         "signature":  "wMerJN6JXS8FcqXEyzJZvsi7EDxIEnwzHD4oWoX/5vxB0Rpxk2xePBYR3zRF2sACP06sAJfH37UogDaJ0dAHjhFE53NcdrwVKHHb5me5+fYHYfbm6dS++LMMEeW8mScRg+okHtl8N+nls3eNkjju4UeC+YfmjHQXUmA1HjId1H5CkG5ctlKyTOlDKRLtzUOpPjHXic6TIQs09E+9yc/R+88ZyntkygR/LXTRZU8PQ4Fyvtot3+9hRe9OYPAkmpynG66CrvVYzeAInouSENy7VHD6WN6vSSBqOJ/+09ekQ1cfMrnEFhyHg57E6Vhx5UFvkwrEP/N4GZtpuw5EHBGJvg=="
+                    },
+                    {
+                        "version":  "7.1.1-7.13.2026.3",
+                        "clientIntegrityHash":  "1E852B3B2DC81C3C",
+                        "url":  "https://github.com/sheepiiHD/ProjectFibulaClient-updates/releases/download/7.1.1-7.13.2026.3/ProjectFibulaClient-7.1.1-7.13.2026.3.exe",
+                        "sha256":  "5a70cce4448f6b07ea16e3e6b1e5885812ddbd680b9e8a005abf6ab7f59ae4c6",
+                        "show_desc":  true,
+                        "changelog":  [
+                                          "Restored title casing for container and item display names.",
+                                          "Character and GM names continue to preserve the server-provided capitalization exactly."
+                                      ],
+                        "signature":  "BdoLYia5set1gMxev7V+qu3dD/VLezHNTfJWOvCS54ILQxCwPetHtQ1FNdHEJqZfgDsOfnaecn3gRoWZ1Pi5tZh7H4XoJOhL3mlzvQwb6oAICrCk6St86/+TFEhUJKmFGr/dTcAph3Ns5d6Nx6t09u7jOYQ/SCU/XtuFFqPo9FpeAC7QmiqZiOKAb4P7UAnUk85YHWqk9Z8AstY1Dr1UPO8Bar9C1IgDv9zKlbo2ZB7wzd1HCs0kxP20c6+6buedNzDpc95wIN0wiRXGu99/VC1Cs5oqk/HQ2gqXYwrfT4fbDPK2rzng9lAVH/NU8aqCJMo4Y+wojSDyWxuKapjx9g=="
                     }
                 ]
 }
