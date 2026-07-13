@@ -90,6 +90,17 @@
                                           "Removed skill-bar visibility toggles, the Ctrl+Shift+Y shortcut, and obsolete saved settings."
                                       ],
                         "signature":  "TAkSel8Z6lJgYI/mmTU3TnrLi9cme1DGJ9PflShZE9ZKo4TAtIsFONCSIojcxbhc3c1DgdVgR2E5u0HXFzpz5j1rCPngro+df6TBOMV8s1QquowlQ0NLJZGkYFkEm9dyC7B9uaEoDQFFGDU9jTQHn8MK/KfQQz54B7XjjFB12cX+KBahHNfHifj9wWWuzFwyPsAMVGXxGyAO1iU3AEBOP4IO1XvkpHifHP74DvKHtTKF5S8aT4CyIUoypSfwohRQxAn6gILejIGzZ81+IM8Tczk2QgTIeMDlUQihhskfgVt+i6YhVMgPrUm/0I1fZq3+JHznjNNk+5vE8YsB8lciHg=="
+                    },
+                    {
+                        "version":  "7.1.1-7.13.2026.6",
+                        "clientIntegrityHash":  "5826F95A6551CFA3",
+                        "url":  "https://github.com/sheepiiHD/ProjectFibulaClient-updates/releases/download/7.1.1-7.13.2026.6/ProjectFibulaClient-7.1.1-7.13.2026.6.exe",
+                        "sha256":  "2a1046a3aa792bd84021e33904387e34ceb3c2e82b2dd2814216557323e8e915",
+                        "show_desc":  true,
+                        "changelog":  [
+                                          "Removed internal item ID and stack-position diagnostics from item look descriptions."
+                                      ],
+                        "signature":  "WiNWcbNhm7jZtOYpYsp2q3dT1CFePYD/hyb8IrwIEF3nt5jf3F6yZNQ5SGxHz4eAKrQnquGcJInnabLWTr46V75G65c+IEjGz+hzlTQOhhjudmbABF8YX+L6BMxmwgIbAJtWgKTlxJjOpL0Z1YnTLQ9YEnKRnLO4Hx/ze/xEkCjThwdHUxtl3vOsVDYXTU7o6LtEu5xxJFztHS2Xgaj2Ax4H0N1YqGLyaEquAVPCS+VOoJeDZTTHa1VC7gJlCpQML8GWJUMybZBSB6y7ehTrO9KNtSO4m539ty6nO4NWYZrfYFiD15t3OLJ2eIw5QtlNetaqv6xIv/QFf3Qp1mIuSA=="
                     }
                 ]
 }
