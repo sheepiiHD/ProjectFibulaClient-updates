@@ -63,6 +63,20 @@
                                           "Character and GM names continue to preserve the server-provided capitalization exactly."
                                       ],
                         "signature":  "BdoLYia5set1gMxev7V+qu3dD/VLezHNTfJWOvCS54ILQxCwPetHtQ1FNdHEJqZfgDsOfnaecn3gRoWZ1Pi5tZh7H4XoJOhL3mlzvQwb6oAICrCk6St86/+TFEhUJKmFGr/dTcAph3Ns5d6Nx6t09u7jOYQ/SCU/XtuFFqPo9FpeAC7QmiqZiOKAb4P7UAnUk85YHWqk9Z8AstY1Dr1UPO8Bar9C1IgDv9zKlbo2ZB7wzd1HCs0kxP20c6+6buedNzDpc95wIN0wiRXGu99/VC1Cs5oqk/HQ2gqXYwrfT4fbDPK2rzng9lAVH/NU8aqCJMo4Y+wojSDyWxuKapjx9g=="
+                    },
+                    {
+                        "version":  "7.1.1-7.13.2026.4",
+                        "clientIntegrityHash":  "3A8F821A74135119",
+                        "url":  "https://github.com/sheepiiHD/ProjectFibulaClient-updates/releases/download/7.1.1-7.13.2026.4/ProjectFibulaClient-7.1.1-7.13.2026.4.exe",
+                        "sha256":  "79a023dff5806771871a688ed316757f727cf327bfdaf859e6b7fe6196de3abc",
+                        "show_desc":  true,
+                        "changelog":  [
+                                          "Fixed DPI and interface-scale mouse hitbox offsets.",
+                                          "Mouse input now maps through the actual SDL window-to-render size ratio.",
+                                          "Statically linked zlib so zlib1.dll is no longer required.",
+                                          "Release packages include the required Assets folder."
+                                      ],
+                        "signature":  "L+mhiZqK0Ds3+qj0mw/pXozhdC/YtPWeSZi5V3dXudN28kXKAqaI9jqo/itLzkL/B6L1kUrCJ5PVR4DsZ4xDQUSR8F7nLbqT14YrNxLVLMaCTcWQRLpf/DQbVaTTrEqETPLnzFJOx/EnaqD8SbN4XKdmVdou9nYUshvYko0aJ5b2FcA0KPfI/l4P1nY9rP/WmUmKXXgR23FU+vo0NWaMl3egfZ24zpAKQ2Osj4ICZMwm7SeLsz7MKZvBYXIjFADrE7DCkzPcSRCIoIQK6hgFr8NNU6JFWMqRHl15ay35DyHcLV7MB4YImoRCAf3GcZ5IEAmdtLz0sMvlMFn3EdBDkg=="
                     }
                 ]
 }
